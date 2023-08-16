@@ -1,5 +1,8 @@
 # Decision Trees
 
+![Project Logo](./scatterplot.png)
+![Project Logo](./trees.png)
+
 This project focuses on exploring decision trees, impurity measures, and random decision forests. It includes code snippets and analyses for various aspects of decision tree-based machine learning.
 
 ## Impurity Measures
